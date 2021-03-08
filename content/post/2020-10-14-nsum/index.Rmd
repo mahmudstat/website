@@ -1,13 +1,13 @@
 ---
-title: 'স্বাভাবিক সংখ্যার অস্বাভাবিক যোগফল '
-author: 'আব্দুল্যাহ আদিল মাহমুদ '
-date: '2020-10-14'
-slug: nsum
-categories:
-  - math
-tags:
-  - sum
-  - series
+layout: post
+title:  "স্বাভাবিক সংখ্যার অস্বাভাবিক যোগফল"
+author: mahmud
+categories: [ math, number ]
+tags: [ paradox, series ]
+image: assets/images/
+description: ""
+hidden: false
+output: md_document
 ---
 
 আচ্ছা বলুন তো, শুধু ধনাত্মক সংখ্যাকে যোগ করে কি ঋণাত্মক মান পাওয়া যেতে পারে? ভাবছেন, নিশ্চয় না। কিন্তু ভাবনা কি আর সবসময় সঠিক হয়? বলব। তার আগে একটি গল্প মনে করিয়ে দেই?
